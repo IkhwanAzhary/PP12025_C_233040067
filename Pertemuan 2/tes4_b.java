@@ -1,4 +1,4 @@
-package PP1;
+package Pertemuan2;
 
 public class tes_4b {
 	public static void main(String [] args) {

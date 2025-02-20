@@ -1,4 +1,4 @@
-package PP1;
+package Pertemaun2;
 
 public class NodeMain {
 	public static void main(String[] args) {
