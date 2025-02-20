@@ -1,4 +1,4 @@
-package Pertemuan3.;
+package Pertemuan3;
 
 public class StrukturList {
 		private Node HEAD;

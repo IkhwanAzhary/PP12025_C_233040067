@@ -1,4 +1,4 @@
-package Pertemuan3.;
+package Pertemuan3;
 
 public class ListMain {
 		public static void main(String[] args) {
