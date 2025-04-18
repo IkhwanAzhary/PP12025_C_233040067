@@ -1,31 +1,31 @@
 package Pertemuan6;
 
 public class Node {
-	private double  data;
+	private int data;
 	public Node next;
 	
-	//inisialisasi Node
-	public Node(double data) {
+//	Inisialisasi Node
+	public Node(int data) {
 		this.data = data;
 		this.next = null;
 	}
 	
-	//setter and getter
-	public void setData(double data) {
+//	Setter dan Getter
+	public void setData(int data) {
 		this.data = data;
 	}
-
-	public double getData() {
+	
+	public int getData() {
 		return data;
 	}
 	
-	//setter untuk next
+//	Setter untuk next
 	public void setNext(Node next) {
-        this.next = next;
-    }
-
-	//getter untuk next
+		this.next = next;
+	}
+	
+//	Getter untuk next
 	public Node getNext() {
-        return next;
-    }
+		return next;
+	}
 }
